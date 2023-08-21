@@ -41,7 +41,7 @@ const Hero = () => {
               // data-aos="fade-up"
               className=" text-[1.1rem] font-medium w-3/4 md:w-full text-gray-600 sm:text-[.95rem]"
             >
-             I am Final Year Student at Hindusthan Institue of Technology
+             I am  a Final Year Student at Hindusthan Institue of Technology
             </p>
           </div>
           <div data-aos="fade-up" className="buttons flex gap-5">
